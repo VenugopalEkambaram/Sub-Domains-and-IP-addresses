@@ -1,7 +1,8 @@
 # Sub-Domains-and-IP-addresses
 This project takes any domain(www.yahoo.com) as input. Then user can generate subdomains for it and find their corresponding IP addresses.
 
-Front end developed with AngularJS
+Front end developed with AngularJS.
+
 Back end API built with .NET Framework 4.5, ASP.NET, MVC
 
 
