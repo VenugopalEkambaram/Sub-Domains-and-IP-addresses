@@ -1,0 +1,11 @@
+﻿.table, th, td {
+   text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: lightblue;
+    border-bottom-width: 2px;
+}
+
+.table th {
+    border-bottom-color: lightskyblue;
+    border-bottom-width: 3px;
+}
